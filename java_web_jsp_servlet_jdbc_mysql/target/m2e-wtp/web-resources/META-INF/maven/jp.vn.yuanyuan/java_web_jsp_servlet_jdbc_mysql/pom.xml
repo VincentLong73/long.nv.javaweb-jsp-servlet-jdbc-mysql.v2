@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 
 	<properties>
-		<mysql.version>8.0.19</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<jsp.api.version>2.0</jsp.api.version>
 		<jstl.version>1.2</jstl.version>
 		<sitemesh.version>2.4.2</sitemesh.version>
